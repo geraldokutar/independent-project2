@@ -1,0 +1,61 @@
+.jumbotron{
+  color: white;
+  background-image: url("landing.jpg");
+}
+#Happy-Hour{
+  background-color: silver;
+  height:108px;
+  background-size: cover;
+  background-repeat:none;
+  text-align: center;
+
+}
+#Party-time{
+  color: white;
+  background-color: #F15A29;
+  height: 109px;
+  background-size: cover;
+  background-repeat: none;
+  text-align: center;
+  background-position: center;
+}
+
+#Breakfast{
+  color: white;
+  background-image: url("breakfast.jpg");
+  padding:77px;
+  background-position: center;
+  text-align: center;
+  background-repeat: none;
+}
+#Lunch{
+  color: white;
+  background-image: url("lunch.jpg");
+  padding:77px;
+  background-position: center;
+  text-align: center;
+  background-repeat: none;
+}
+#Dinner{
+  color: white;
+  background-image: url("dinner.jpg");
+  padding:77px;
+  background-position: center;
+  text-align: center;
+  background-repeat: none;
+}
+.ghost-button {
+  display: inline-block;
+  width: 200px;
+  padding: 8px;
+  color: #F15A29;
+  border: 1px solid #F15A29;
+  text-align: center;
+  outline: none;
+  text-decoration: none;
+}
+.ghost-button:hover,
+.ghost-button:active {
+  background-color: #fff;
+  color: #000;
+}
