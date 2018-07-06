@@ -59,3 +59,93 @@
   background-color: #fff;
   color: #000;
 }
+.tab-area {
+  text-align: center;
+  background: url(../img/backgrounds/foodsBg.jpg) no-repeat center center;
+  padding-bottom: 20%;
+}
+.bar {
+  background: #fff;
+  margin-top: 20%;
+
+}
+#fast img{
+  padding-top: 6%;
+}
+.nav a{
+  font-size: 25px;
+  background: #dee0e2;
+  font-family: 'Indie Flower', cursive;
+}
+#fast h2{
+  color: #F15A29;
+
+}
+.about{
+  border: solid 1px #dee0e2;
+}
+.amenu{
+  margin-top:2%;
+  border-left:1px solid #dee0e2;
+
+}
+.amenu p{
+  text-align: justify;
+
+}
+.about h1,span {
+  color: #F15A29;
+}
+.customer{
+  margin-top: 2%;
+}
+.subscribe{
+  background: url(../img/backgrounds/subscribe.jpg) no-repeat center center;
+  height: 300px;
+
+  margin-top: 3%;
+}
+.subscribeHead{
+  text-align: center;
+  margin-top: 5%;
+  color: white;
+  font-family: Roboto;
+
+}
+.subscribe input:hover{
+  background: rgb(255,255,255);
+}
+.subscribe button{
+  background: #F15A29;
+  color: white;
+  margin-left: 4%;
+}
+.subscrite button:hover{
+  background-color: #F15A29;
+  color: white;
+}
+form{
+  text-align: center;
+  margin-button: 8%;
+}
+.footer{
+  background: #F15A29;
+  padding-top: 5%;
+}
+.footer{
+  font-family: Roboto;
+  color: white;
+  text-align: center;
+}
+.subscribed{
+  text-align: center;
+  display: none;
+  padding-button: 10%;
+}
+body {
+  font-family: 'Indie Flower', cursive;
+}
+.log {
+  text-align:center;
+
+}
